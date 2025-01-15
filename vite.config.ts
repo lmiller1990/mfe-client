@@ -14,7 +14,7 @@ export default defineConfig({
   plugins: [
     vue(),
     federation({
-      name: "mfe-client",
+      name: "mfe_client",
       filename: "remoteEntry.js",
       exposes: {
         "./place": "./src/place.ts",
@@ -22,7 +22,7 @@ export default defineConfig({
       remotes: {
         mfe_host: {
           name: "mfe_host",
-          entry: "https://lmiller1990.github.io/mfe-host/remoteEntry.js",
+          entry: "http://lmiller1990.github.io/mfe_host/remoteEntry.js",
           type: "module",
         },
       },
