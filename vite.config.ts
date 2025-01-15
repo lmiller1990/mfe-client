@@ -22,7 +22,7 @@ export default defineConfig({
       remotes: {
         mfe_host: {
           name: "mfe_host",
-          entry: "http://lmiller1990.github.io/mfe-host/remoteEntry.js",
+          entry: "https://lmiller1990.github.io/mfe-host/remoteEntry.js",
           type: "module",
         },
       },
