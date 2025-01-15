@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/place-DrRqbTwq.js","assets/App.vue_vue_type_script_setup_true_lang-AS8bXEBQ.js","assets/mfe_mf_2_client__mf_v__runtimeInit__mf_v__-x_1I-aI9.js","assets/App-DViQtWzG.css"])))=>i.map(i=>d[i]);
+import{_ as o}from"./preload-helper-CqbGQnuR.js";const a={"./place":async()=>{const t=await o(()=>import("./place-DrRqbTwq.js"),__vite__mapDeps([0,1,2,3])),e={};return Object.assign(e,t),Object.defineProperty(e,"__esModule",{value:!0,enumerable:!1}),e}};export{a as default};

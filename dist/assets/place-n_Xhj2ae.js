@@ -1,1 +1,0 @@
-import{c as a,_ as t}from"./App.vue_vue_type_script_setup_true_lang-BjAeVfNf.js";import"./mfe_host__mf_v__runtimeInit__mf_v__-DqRWXC4n.js";function e(o){console.log("placing host!"),a(t).mount(o)}export{e as default};

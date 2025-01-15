@@ -1,4 +1,4 @@
-import{i as xr,m as yr}from"./mfe_host__mf_v__runtimeInit__mf_v__-DqRWXC4n.js";/**
+import{i as xr,m as yr}from"./mfe_mf_2_client__mf_v__runtimeInit__mf_v__-x_1I-aI9.js";/**
 * @vue/shared v3.5.13
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
